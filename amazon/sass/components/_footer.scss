@@ -1,0 +1,19 @@
+@use "../colors" as *;
+
+footer {
+  background-color: $topNavBgColor;
+  h5 {
+    color: white;
+  }
+  ul {
+    li {
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.b-top {
+  background-color: #232f3e !important;
+}
